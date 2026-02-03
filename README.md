@@ -24,15 +24,6 @@ This program calculates subject-wise average, student-wise average, highest/lowe
 
 ---
 
-## 📁 Project Structure
-
-student-marks-analyzer/
-│
-├── marks_analyzer.py
-└── README.md
-
-
----
 
 ## ▶ How to Run
 

@@ -37,7 +37,7 @@ pip install numpy
 
 3. Run the program:
 
-python marks_analyzer.py
+python student-marks-analyzer.py
 
 
 ---
